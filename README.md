@@ -1,0 +1,1 @@
+The only python code in this repo is the python code used for the Monte Carlo method of finding the probabilities of blackjack hands, the code has been altered for specific cases but the uploaded code is the skeleton code with methods of how it works.
